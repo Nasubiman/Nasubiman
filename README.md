@@ -2,4 +2,4 @@
 <br>
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,linux)](https://skillicons.dev)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasubiman)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=nasubiman)
