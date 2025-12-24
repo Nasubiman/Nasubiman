@@ -1,1 +1,1 @@
-https://readme-typing-svg.herokuapp.com/demo/?lines=GitHub+nanmo+wakarahen
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=GitHub+nanmo+wakarahen)](https://git.io/typing-svg)
